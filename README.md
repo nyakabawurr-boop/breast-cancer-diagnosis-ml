@@ -105,3 +105,25 @@ breast-cancer-diagnosis-ml/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
+## How to Run the Project
+1. Clone the repository
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Open the notebook or Python scripts
+
+4. Review the visuals and model comparison results
+
+## Video Walkthrough
+
+A 5-minute project walkthrough video link will be added here soon.
+
+For now, see the placeholder file here: [video_link.txt](video/video_link.txt)
+
+## Author
+
+**Raymond Royal Nyakabawu**  
+MS in Business Analytics | Python | SQL | Machine Learning | Data Analytics
