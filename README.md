@@ -41,7 +41,9 @@ The analysis included:
   ![Diagnosis Distribution](visuals/Figure_1_Diagnosis_Counts%20(B%20vs%20M).png)
   ### Feature Correlation Heatmap
   ![Feature Correlation Heatmap](visuals/Figure_2_Feature_Correlation_Heatmap.png)
-
+  ### Perimeter Worst by Diagnosis
+  ![Perimeter Worst by Diagnosis](visuals/Figure_3_Perimeter_Worst_by_Diagnosis.png)
+  
 These visuals showed that some features clearly separate benign and malignant diagnoses.
 
 ## Modeling Approach
