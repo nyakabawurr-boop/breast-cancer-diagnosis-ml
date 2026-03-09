@@ -37,6 +37,8 @@ The analysis included:
 - Diagnosis count distribution
 - Feature correlation heatmap
 - Boxplots for important features such as perimeter_worst, radius_worst, and area_worst
+- ### Diagnosis Distribution
+![Diagnosis Distribution](visuals/Figure_1_Diagnosis_Counts%20(B%20vs%20M).png)
 
 These visuals showed that some features clearly separate benign and malignant diagnoses.
 
