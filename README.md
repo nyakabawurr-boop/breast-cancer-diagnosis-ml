@@ -100,6 +100,13 @@ The Random Forest model performed better than the Decision Tree and provided a s
 ## Business Recommendation
 The Random Forest model is the stronger baseline model for this problem. However, this solution should be treated as a decision-support tool rather than a replacement for clinical diagnosis. Before real-world use, the model would need threshold tuning, cross-validation, explainability checks, and domain validation.
 
+## Future Improvements
+- Add hyperparameter tuning
+- Test additional models such as XGBoost
+- Add explainability methods such as SHAP
+- Perform cross-validation
+- Improve clinical decision-support interpretation
+
 ## Project Structure
 ```text
 breast-cancer-diagnosis-ml/
