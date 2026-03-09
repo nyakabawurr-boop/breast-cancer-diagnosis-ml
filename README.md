@@ -118,10 +118,11 @@ breast-cancer-diagnosis-ml/
 4. Review the visuals and model comparison results
 
 ## Video Walkthrough
-
 A 5-minute project walkthrough video link will be added here soon.
 
-For now, see the placeholder file here: [video_link.txt](video/video_link.txt)
+For now, see:
+- [video_link.txt](video/video_link.txt)
+- [video_script.md](video/video_script.md)
 
 ## Author
 
