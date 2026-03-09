@@ -1,3 +1,12 @@
+"""
+Breast Cancer Diagnosis Prediction with Python
+Author: Raymond Royal Nyakabawu
+
+Project purpose:
+Compare the Decision Tree and Random Forest models to classify
+Breast tumours as benign or malignant using the Breast Cancer
+Wisconsin dataset.
+"""
 import os
 import matplotlib
 matplotlib.use("Agg")
@@ -313,4 +322,5 @@ print("-" * 40)
 print(f"Decision Tree ROC-AUC: {dt_auc:.4f}")
 print(f"Decision Tree PR-AUC : {dt_pr_auc:.4f}")
 print(f"Random Forest ROC-AUC: {rf_auc:.4f}")
+
 print(f"Random Forest PR-AUC : {rf_pr_auc:.4f}")
