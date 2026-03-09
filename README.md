@@ -3,6 +3,11 @@
 ## Project Overview
 This project uses the Breast Cancer Wisconsin dataset to predict whether a tumor is benign or malignant using machine learning. I compared a Decision Tree and a Random Forest model, with a strong focus on identifying malignant cases accurately.
 
+### Quick Links
+- [Project Summary](docs/project_summary.md)
+- [Main Python Script](src/breast_cancer_analysis.py)
+- [Video Script](video/video_script.md)
+
 ## Business Problem
 In a healthcare setting, missing a malignant tumor is more costly than incorrectly flagging a benign one. The goal of this project was to build a classification workflow that supports early risk detection and compare models based on their ability to identify high-risk cases.
 
