@@ -113,7 +113,7 @@ breast-cancer-diagnosis-ml/
    ```bash
    pip install -r requirements.txt
    ```
-3. Open the notebook or Python scripts
+3. Open the main Python script in `src/breast_cancer_analysis.py`
 
 4. Review the visuals and model comparison results
 
