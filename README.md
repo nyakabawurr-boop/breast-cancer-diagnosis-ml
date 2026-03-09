@@ -69,6 +69,9 @@ Main takeaways:
 - Random Forest made fewer classification errors
 - Random Forest achieved stronger ROC-AUC and PR-AUC
 - Feature importance highlighted perimeter, concave points, radius, and area as major predictors
+  
+  ### Random Forest Confusion Matrix
+  ![Random Forest Confusion Matrix](visuals/Figure_9_Confusion_Matrix_Random_Forest.png)
 
 ## Business Recommendation
 The Random Forest model is the stronger baseline model for this problem. However, this solution should be treated as a decision-support tool rather than a replacement for clinical diagnosis. Before real-world use, the model would need threshold tuning, cross-validation, explainability checks, and domain validation.
