@@ -32,6 +32,9 @@ The dataset contains breast cancer biopsy measurement features such as radius, p
 9. Model evaluation
 10. Business recommendation
 
+### Main Code File
+[View the main Python analysis script](src/breast_cancer_analysis.py)
+
 ## Exploratory Data Analysis
 The analysis included:
 - Diagnosis count distribution
