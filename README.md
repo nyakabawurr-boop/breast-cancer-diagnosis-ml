@@ -6,7 +6,10 @@ This project uses the Breast Cancer Wisconsin dataset to predict whether a tumor
 ### Quick Links
 - [Project Summary](docs/project_summary.md)
 - [Main Python Script](src/breast_cancer_analysis.py)
-- [video_link.txt](https://youtu.be/j9gra7Bgsv0)
+- Click the icon to play the video  
+  <a href="https://youtu.be/j9gra7Bgsv0">
+  <img src="visuals/breast_cancer_video_thumbnail.png" alt="Watch the video" width="190">
+</a>
 
 ## Business Problem
 In a healthcare setting, missing a malignant tumor is more costly than incorrectly flagging a benign one. The goal of this project was to build a classification workflow that supports early risk detection and compare models based on their ability to identify high-risk cases.
@@ -133,7 +136,7 @@ breast-cancer-diagnosis-ml/
 4. Review the visuals and model comparison results
 
 ## Video Walkthrough
-A 5-minute project walkthrough video link will be added here soon.
+[![Watch the video](visuals/breast_cancer_video_thumbnail.png)](https://youtu.be/j9gra7Bgsv0)
 
 For now, see:
 - [video_link.txt](https://youtu.be/j9gra7Bgsv0)
